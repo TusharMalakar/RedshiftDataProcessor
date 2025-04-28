@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedshiftDataProcessor", "RedshiftDataProcessor\RedshiftDataProcessor.csproj", "{8FC7F3CB-7D84-4E1C-9411-CE0976C5F5EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FC7F3CB-7D84-4E1C-9411-CE0976C5F5EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FC7F3CB-7D84-4E1C-9411-CE0976C5F5EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FC7F3CB-7D84-4E1C-9411-CE0976C5F5EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FC7F3CB-7D84-4E1C-9411-CE0976C5F5EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {086ED9C9-6338-42A6-8C34-B15675E51D99}
+	EndGlobalSection
+EndGlobal
